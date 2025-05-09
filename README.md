@@ -23,7 +23,7 @@ A SwiftUI & Combine powered scroll-offset sampling component that lets you monit
 2. Enter the repository URL, for example:
 
    ```text
-   https://github.com/<your-username>/ScrollOffsetReader.git
+   https://github.com/asyncawaited/ScrollOffsetReader.git
    ```
 3. Specify a version range (e.g. `from: "1.0.0"`).
 
@@ -124,7 +124,7 @@ MIT © Royal
 2. 输入仓库地址，例如：
 
    ```text
-   https://github.com/<your-username>/ScrollOffsetReader.git
+   https://github.com/asyncawaited/ScrollOffsetReader.git
    ```
 3. 指定版本区间（例如 `from: "1.0.0"`）。
 
